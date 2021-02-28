@@ -1,0 +1,23 @@
+body{
+	background : linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(welcome.jpg);
+	background-size: cover;
+	background-position: center;
+}
+.login-left{
+	background:rgba(211,211,211,0.5);
+	padding:30px;
+}
+.form-control{
+	background-color: transparent !important;
+}
+
+a{
+	margin-top: -200px !important;
+}
+h1{
+	
+	margin-top: 200px !important;
+	text-align: center;
+	text-transform:uppercase;
+	
+}
